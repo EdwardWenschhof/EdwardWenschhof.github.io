@@ -8,4 +8,4 @@ Hello, my name is Edward Wenschhof. I recently graduated from Shippensburg Unive
 
 ### Resume
 
-For quick reference, here is a link to my [resume] (/files/EdwardWenschhofResume.pdf).
+For quick reference, here is a link to my [resume](/files/EdwardWenschhofResume.pdf).
