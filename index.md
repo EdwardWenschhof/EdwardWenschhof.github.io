@@ -1,5 +1,3 @@
-# Edward Wenschhof's Resume Site
-
 ## Overview
 
 ### Introduction
