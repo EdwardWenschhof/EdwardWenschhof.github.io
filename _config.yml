@@ -1,2 +1,4 @@
-name: Edward Wenschhof's Site
+name: "Edward Wenschhof's Site"
+description: "Computer Science & Mathematics Graduate | Resume & Portfolio"
 title: null
+theme: jekyll-theme-minimal
